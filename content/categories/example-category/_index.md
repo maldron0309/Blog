@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 책
+description: 읽은 책에 대한 독후감
 image:
 
 # Badge style
